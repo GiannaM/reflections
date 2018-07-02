@@ -1,0 +1,5 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+I prefer commit the changes manually rather than automatically because maybe the new changes or  commits are not correct or I
+are just partially complete so if github  pull  from the remote repository that could cause me some confussion when
+I am working locally on my own changes
