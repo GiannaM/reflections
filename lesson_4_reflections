@@ -31,3 +31,6 @@ github also makes it very simple to implement pull requests. Pull requests essen
 repository to "pull" the changes from your fork of the repo back into the origin. That way, everyone can use source
 control and have a history of all the changes, including theirs, but not everyone needs write access to the original repo.
 – mklauber Mar 16 '12 at 19:31
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
