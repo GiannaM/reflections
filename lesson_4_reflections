@@ -1,11 +1,11 @@
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+1-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I prefer commit the changes manually rather than automatically because maybe the new changes or  commits are not correct or I
 are just partially complete so if github  pull  from the remote repository that could cause me some confussion when
 I am working locally on my own changes
 
 
-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+2-Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 
 A clone is simply a copy of a repository. On the surface, its result is equivalent to svn checkout,
@@ -33,4 +33,9 @@ control and have a history of all the changes, including theirs, but not everyon
 – mklauber Mar 16 '12 at 19:31
 
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+3-What is the benefit of having a copy of the last known state of the remote stored locally?
+
+
+4-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Git and github is much easier collaborate because is an organized process where you can change, review and aprove any changes 
+requested without afect the original project and once that is  ready you can merge those changes to the master branch of your project.
