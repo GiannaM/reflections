@@ -39,3 +39,11 @@ control and have a history of all the changes, including theirs, but not everyon
 4-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Git and github is much easier collaborate because is an organized process where you can change, review and aprove any changes 
 requested without afect the original project and once that is  ready you can merge those changes to the master branch of your project.
+
+5- When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+    I think is bett to work with branches when I am going to collaborate with a larger  group, though,
+    because using branches let me track which changes have already been reviewed and approved
+    which is extremely helpful althought is harder in that case i create one branch to the people that want 
+    to collaborate without afect my master branch
+   
+
